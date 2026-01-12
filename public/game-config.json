@@ -1,0 +1,8 @@
+{
+  "assets": [
+    { "alias": "textureAtlas", "src": "assets/textureAtlas.json" },
+
+    { "alias": "button_click", "src": "sound/button_click.mp3" },
+    { "alias": "button_over", "src": "sound/button_over.mp3" }
+  ]
+}
